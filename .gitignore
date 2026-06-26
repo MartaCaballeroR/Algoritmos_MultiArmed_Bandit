@@ -1,0 +1,18 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Build de PyInstaller
+build/
+dist/
+*.spec
+
+# Config de VS Code
+.vscode/
+
+# Variables de entorno
+.env
