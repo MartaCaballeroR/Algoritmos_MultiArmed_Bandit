@@ -1,4 +1,4 @@
-# Algoritmos Multi-Armed Bandit: Estudio y aplicación al diseño de circuitos lógicos.
+# Algoritmos Multi-Armed Bandit: Estudio y aplicación al diseño de circuitos lógicos
 
 ### Descripción del proyecto
 
